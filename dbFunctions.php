@@ -1,6 +1,5 @@
 <?php
 
-
     $username = "root"; 
     $password = "";         // No password required for localhost
     $db       = "c273_p09";  
